@@ -1,0 +1,19 @@
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\GbcDemo.dll
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\GbcDemo.pdb
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.dll
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.GenericBusinessClient.DefaultPlugins.dll
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.GenericBusinessClient.exe
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.Imaging.dll
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.xml
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.GenericBusinessClient.xml
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.GenericBusinessClient.DefaultPlugins.xml
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\bin\Debug\#Accessory.Imaging.xml
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\obj\Debug\GbcDemo.csprojResolveAssemblyReference.cache
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\obj\Debug\GbcDemo.dll
+C:\Users\Stephan\Desktop\GbcDemo\GbcDemo\obj\Debug\GbcDemo.pdb
+D:\Studium\5. Semester\GI\GI-AK\Material\GbcDemo\GbcDemo\bin\Debug\#Accessory.GenericBusinessClient.xml
+D:\Studium\5. Semester\GI\GI-AK\Material\GbcDemo\GbcDemo\bin\Debug\GbcDemo.dll
+D:\Studium\5. Semester\GI\GI-AK\Material\GbcDemo\GbcDemo\bin\Debug\GbcDemo.pdb
+D:\Studium\5. Semester\GI\GI-AK\Material\GbcDemo\GbcDemo\obj\Debug\GbcDemo.dll
+D:\Studium\5. Semester\GI\GI-AK\Material\GbcDemo\GbcDemo\obj\Debug\GbcDemo.pdb
+D:\Studium\5. Semester\GI\GI-AK\Material\GbcDemo\GbcDemo\bin\Debug\icd10gm2014syst_edvascii_20130920.txt

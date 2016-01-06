@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<GenericBusinessClient.Configuration Version="1.0">
+  <WindowState>Normal</WindowState>
+  <Language>English</Language>
+  <BackgroundImage>
+  </BackgroundImage>
+  <PluginFolder>%Application.StartupPath%</PluginFolder>
+  <WindowBounds X="0" Y="16" Width="1366" Height="743" />
+  <BannerImage>%Application.StartupPath%\banner.png</BannerImage>
+  <Icon>
+  </Icon>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.CredentialDialog">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.FolderBrowserDialog">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.Homepage">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.MessageDialog">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.ProgressDialog">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.StringInputDialog">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="SharpAccessory.GenericBusinessClient.DefaultPlugins.TrackBarDialog">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="GbcDemo.Plugin1">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration />
+  </Plugin>
+  <Plugin Name="GbcDemo.Plugin2">
+    <Enabled>True</Enabled>
+    <ManagedConfiguration>
+      <Entry Key="ShowDock" Value="False" />
+    </ManagedConfiguration>
+  </Plugin>
+</GenericBusinessClient.Configuration>
